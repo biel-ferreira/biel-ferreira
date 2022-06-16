@@ -23,6 +23,7 @@
   <a href="https://instagram.com/biel_.fs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriel.ferreira1130@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-araujo-ferreira-da-silva-351527211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  ![snake gif](https://github.com/biel-ferreira/biel-ferreira/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
